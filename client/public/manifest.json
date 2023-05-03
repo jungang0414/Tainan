@@ -1,0 +1,21 @@
+{
+    "short_name": "台南知音",
+    "name": "台南知音廣播股份有限公司",
+      "icons": [
+        {
+          "src": "icon@192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "icon@512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#1f2022",
+    "background_color": "#1f2022"
+  }
