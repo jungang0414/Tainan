@@ -1,25 +1,23 @@
 {
   "files": {
     "main.css": "/Tainan/static/css/main.366de36b.css",
-    "main.js": "/Tainan/static/js/main.8f0946e9.js",
+    "main.js": "/Tainan/static/js/main.8b81b66d.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Tainan/static/js/787.c4e7f8f9.chunk.js",
     "static/media/fa-solid-900.ttf": "/Tainan/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/Tainan/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/鮮凍金枕頭榴槤banner-6盒.jpg": "/Tainan/static/media/鮮凍金枕頭榴槤banner-6盒.c489d651c502ee136af2.jpg",
     "static/media/fa-solid-900.woff2": "/Tainan/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/fa-brands-400.woff2": "/Tainan/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/黑米.jpg": "/Tainan/static/media/黑米.1450611d5c80b3dd5872.jpg",
     "static/media/fa-regular-400.ttf": "/Tainan/static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/fa-regular-400.woff2": "/Tainan/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/fa-v4compatibility.ttf": "/Tainan/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/Tainan/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/Tainan/index.html",
     "main.366de36b.css.map": "/Tainan/static/css/main.366de36b.css.map",
-    "main.8f0946e9.js.map": "/Tainan/static/js/main.8f0946e9.js.map",
+    "main.8b81b66d.js.map": "/Tainan/static/js/main.8b81b66d.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Tainan/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.366de36b.css",
-    "static/js/main.8f0946e9.js"
+    "static/js/main.8b81b66d.js"
   ]
 }
