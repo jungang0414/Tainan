@@ -24,15 +24,15 @@ function MyNavbar() {
                 </Offcanvas.Title>
               </Offcanvas.Header>
               <Offcanvas.Body>
-                <Nav className="justify-content-end flex-grow-1 pe-3">
-                  <Nav.Link href="#action1">Home</Nav.Link>
+                <Nav className="justify-content-end flex-grow-1 pe-3 mb-3">
+                  <Nav.Link href="#action1">首頁</Nav.Link>
 
                 </Nav>
-                <Form className="d-flex">
+                <Form className="d-flex ">
                   <Form.Control
                     type="search"
                     placeholder="Search"
-                    className="me-2"
+                    className="me-2 "
                     aria-label="Search"
                   />
                   <Button variant="outline-success">Search</Button>
